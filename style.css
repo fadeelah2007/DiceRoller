@@ -37,9 +37,10 @@ h1 {
     background:#faf9ff;
     margin: 0 auto 25px;
     box-shadow:0 8px 20px rgba(124,108,242,.15);
-    display:grid;
-    grid-template-columns:repeat(3,1fr);
-    grid-template-rows:repeat(3,1fr);
+    display:flex;
+    justify-content:center;
+    align-items:center;
+    font-size:4rem;
     transition: 0.3s;
 }
 
