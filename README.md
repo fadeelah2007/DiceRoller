@@ -56,7 +56,3 @@ git clone https://github.com/yourusername/dice-roller.git
 ## 👩‍💻 Author
 
 Created by **Fadila**.
-
-## 📄 License
-
-This project is open source and available under the MIT License.
